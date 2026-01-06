@@ -12,7 +12,7 @@
 
 "MENTOR": NEELA SANTOSH
 
-Dataset Source: Amazon Sales Dataset – Kaggle
+DATASET SOURCE: AMAZON SALES DATASET - KAGGLE
 
 TASK 1 – Data Analysis
 
