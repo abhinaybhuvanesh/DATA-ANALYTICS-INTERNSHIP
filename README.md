@@ -1,4 +1,4 @@
-# BIG-DATA-ANALYSIS
+# DATA-ANALYTICS-INTERNSHIP
 
 "COMPANY": CODTECH IT SOLUTIONS
 
@@ -12,4 +12,8 @@
 
 "MENTOR": NEELA SANTOSH
 
-"DESCRIPTION": In this task, I performed big data analysis using Python in Google Colab. I selected an Amazon Sales dataset from Kaggle and uploaded it into Colab. The dataset was loaded using pandas, and initial exploration was done to understand its structure, columns, and data types. I cleaned the data by converting price, discount percentage, ratings, and rating count columns into numeric formats by removing symbols and handling errors safely. After cleaning, I performed basic analysis such as checking category-wise product distribution, average ratings, discount trends, and price comparisons. Finally, the processed dataset and analysis were saved in a Jupyter Notebook and uploaded to GitHub as part of the internship submission.
+TASK 1 – Data Analysis
+"DESCRIPTION": In this task, I performed data analysis using Python in Google Colab. I selected an Amazon Sales dataset from Kaggle and uploaded it into Colab. The dataset was loaded using the pandas library, and initial exploration was carried out to understand the dataset structure, columns, and data types. Data cleaning was performed by converting price values, discount percentages, ratings, and rating counts into numeric formats by removing currency symbols and percentage signs and handling missing or invalid values safely. After cleaning, exploratory analysis was conducted to study category-wise product distribution, average product ratings, discount patterns, and comparisons between actual and discounted prices. The complete analysis was documented in a Jupyter Notebook and uploaded to GitHub as part of the internship submission.
+
+TASK 2 – Predictive Analysis
+"DESCRIPTION": In this task, I performed predictive analysis using Python in Google Colab. I used the same Amazon Sales dataset to build a simple prediction model. The dataset was cleaned by converting price values, discount percentages, ratings, and rating counts into numeric formats and removing rows with missing values. Relevant features such as actual price, discounted price, discount percentage, and rating count were selected as input variables, and product rating was chosen as the target variable. The data was split into training and testing sets, and a Linear Regression model was trained using scikit-learn. The model’s performance was evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² score. The complete predictive analysis process and results were saved in a Jupyter Notebook and uploaded to GitHub as part of the internship tasks.
